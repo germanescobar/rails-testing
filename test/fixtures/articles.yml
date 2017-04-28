@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+published:
+  title: Titulo 1
+  body: Body 1
+  published: true
+
+unpublished:
+  title: Titulo 2
+  body: Body 2
+  published: false
